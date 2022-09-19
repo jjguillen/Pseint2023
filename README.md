@@ -2,4 +2,4 @@
 
 - Repositorio donde aparecerán todos los ejercicios de Java resueltos del curso 2022 - 2023
 
-Javier Guillén Benavente
+Profesor: Javier Guillén Benavente
