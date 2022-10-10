@@ -13,7 +13,7 @@ Algoritmo BUC_ejercicio12v2
 	Escribir "Dime el número de filas";
 	Leer filas;
 	
-	Para var2<-filas hasta 1 con paso -1 Hacer
+	Para var2<-1 hasta filas  Hacer
 		//Pintar tantos asteriscos como indica la variable filas
 		Para var<-1 hasta var2 Hacer
 			Escribir Sin Saltar "*";
