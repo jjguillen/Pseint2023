@@ -27,6 +27,12 @@ Algoritmo BUC_ejercicio12v4
 				Escribir Sin Saltar "*";
 			FinPara
 			
+			Si (var2 > 1) Entonces
+				Para var<-2 hasta var2 Hacer
+					Escribir Sin Saltar "*";
+				FinPara
+			FinSi			
+			
 			Escribir "";
 			
 		FinPara
