@@ -1,0 +1,57 @@
+1. Hacer una función que se le pase por parámetro un array de reales y su tamaño,
+ y calcule la media de los valores del array.
+ 
+ Además devuelva el valor máximo del vector por referencia. 
+ Usarlo con un vector de tamaño 10 y comprobar que funciona.
+
+	Funcion valorMedia <- media(vector, tamanio, maximo Por referencia)
+
+2. Dados. 
+Función que simule el lanzamiento de un dado (1-6) y devuelva el resultado.
+Función que simule que lanzas cinco dados y devuelva el valor de la tirada, es decir, la suma de los cinco dados.
+Algoritmo. Pida el nombre de dos jugadores, simula la tirada de cinco dados de cada uno y dime quién es el ganador.
+
+
+3. Validar letra DNI
+Dado un número de DNI hay que sacar la letra.
+La fórmula es número % 23. Eso te da la posición de una cadena
+cadena = "ABCD...Z"   Hay que sacarlo usando subcadena()
+
+4. Mastermind
+PC genera 4 números aleatorios no repetidos (en un vector) [5,20,34,22]
+Tú tienes que acertarlos. Te pide 4 números por teclado
+Tienes que hacer una función que calcule de tús 4 números, cuántos están en la
+misma posición y cuántos están pero no en la misma posición.
+P.ej. [5,33,20,21] te devolvería que hay 1 en la misma posición (el 5) y 1 que
+está pero en otra posición (el 20)
+
+5. PC adivina tu número
+El PC te pide que pienses un número sin decirlo ni nada
+Pone min=1, y max=100
+Genera un número aleatorio entre min y max (nuevo) y te pregunta si es 
+ese tu número
+Si es que sí has acertado
+Si es que no te pregunta si es mayor o menor
+   Si es menor actualiza el max a nuevo
+   Si es mayor actualiza el min a nuevo
+
+6. Las 21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
